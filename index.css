@@ -29,7 +29,7 @@ h2 {
 
 #top {
   position: relative;
-  border: 1px solid red;
+
   height: 60px;
   background-image: url("./images/samsung-1-logo-svg-vector.svg");
   background-size: 130px;
@@ -40,7 +40,7 @@ h2 {
 #title {
   position: relative;
   margin: 40px 20px;
-  border: 1px solid red;
+
   height: 200px;
   z-index: 0;
 }
