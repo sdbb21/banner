@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "MyWebFont";
+  src: url("/fonts/DobraSlab-W04-Book.woff") format("woff"),
+    url("/fonts/DobraSlab-W04-Book.woff.ttf") format("truetype");
+}
+
+/* @font-face {
+  font-family: "Open Sans";
+  src: url("/fonts/Open-Sans-Bold.woff") format("woff"); /* Pretty Modern Browsers
+} */
+
+body {
+  font-family: "MyWebFont";
+}
