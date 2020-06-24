@@ -20,11 +20,13 @@ body {
 h1 {
   font-family: "Dobra";
   color: #0090e3;
+  font-size: 3em;
 }
 
 h2 {
   font-family: "Open Sans";
   color: #004974;
+  font-size: 1.5em;
 }
 
 #top {
